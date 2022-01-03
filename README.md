@@ -1,4 +1,3 @@
 # jsoup
-Scraping and crawling on static websites with the JSoup library and vanilla java.
 
-Dependency-management via *Maven*.
+Just a some Jsoup-library and Vanilla Java Webscrapers and crawlers that serve me as code snippets for future projects.
