@@ -1,5 +1,5 @@
 # jsoup
 
-This repository contains small Jsoup and Vanilla-Java Webscrapers that I used to try out new concepts.
+Just a small test project to understand the basics of crawling and scripting.
 
-All scripts are only capable of scraping off anchor elements off of websites.
+Tiny scripts in vanila-Java and JSoup that scrape links (only capable of scraping off anchor elements off of websites).

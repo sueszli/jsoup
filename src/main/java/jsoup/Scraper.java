@@ -1,4 +1,4 @@
-package jsoup_scrapes;
+package jsoup;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -9,7 +9,7 @@ import java.io.IOException;
 
 import static util.ColorfulPrint.printYellow;
 
-public class PriceScraper {
+public class Scraper {
 
     public static void main(String[] args) throws IOException {
         Document doc = Jsoup.connect("https://www.revengeofficial.com/")

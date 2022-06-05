@@ -1,4 +1,4 @@
-package vanilla_scrapes;
+package vanilla;
 
 import java.io.File;
 import java.io.FileWriter;

@@ -1,4 +1,4 @@
-package jsoup_crawles;
+package jsoup;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
@@ -10,7 +10,7 @@ import util.ColorfulPrint;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class SingleThread {
+public class Crawler {
 
     final private static String WEB_ADDRESS = "https://en.wikipedia.org/";
     final private static int MAX_CRAWL_DEPTH = 5;
